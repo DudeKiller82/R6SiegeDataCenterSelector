@@ -1,0 +1,22 @@
+C:\Users\p14\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Release\R6 Siege Data Center Selector.exe.config
+C:\Users\p14\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Release\R6 Siege Data Center Selector.exe
+C:\Users\p14\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Release\R6 Siege Data Center Selector.pdb
+C:\Users\p14\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Release\R6 Siege Data Center Selector.xml
+C:\Users\p14\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Release\R6SiegeDataCenterSelector.R6SiegeDataCenterSelector.resources
+C:\Users\p14\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Release\R6SiegeDataCenterSelector.Resources.resources
+C:\Users\p14\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Release\R6SiegeDataCenterSelector.vbproj.GenerateResource.Cache
+C:\Users\p14\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Release\R6 Siege Data Center Selector.exe
+C:\Users\p14\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Release\R6 Siege Data Center Selector.xml
+C:\Users\p14\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Release\R6 Siege Data Center Selector.pdb
+E:\nosave\Documents\Programme\R6SiegeDataCenterSelector\WindowsApplication1\bin\Release\R6 Siege Data Center Selector.exe.config
+E:\nosave\Documents\Programme\R6SiegeDataCenterSelector\WindowsApplication1\bin\Release\R6 Siege Data Center Selector.exe
+E:\nosave\Documents\Programme\R6SiegeDataCenterSelector\WindowsApplication1\bin\Release\R6 Siege Data Center Selector.pdb
+E:\nosave\Documents\Programme\R6SiegeDataCenterSelector\WindowsApplication1\bin\Release\R6 Siege Data Center Selector.xml
+E:\nosave\Documents\Programme\R6SiegeDataCenterSelector\WindowsApplication1\obj\Release\R6SiegeDataCenterSelector.vbprojAssemblyReference.cache
+E:\nosave\Documents\Programme\R6SiegeDataCenterSelector\WindowsApplication1\obj\Release\R6SiegeDataCenterSelector.R6SiegeDataCenterSelector.resources
+E:\nosave\Documents\Programme\R6SiegeDataCenterSelector\WindowsApplication1\obj\Release\R6SiegeDataCenterSelector.Resources.resources
+E:\nosave\Documents\Programme\R6SiegeDataCenterSelector\WindowsApplication1\obj\Release\R6SiegeDataCenterSelector.vbproj.GenerateResource.cache
+E:\nosave\Documents\Programme\R6SiegeDataCenterSelector\WindowsApplication1\obj\Release\R6SiegeDataCenterSelector.vbproj.CoreCompileInputs.cache
+E:\nosave\Documents\Programme\R6SiegeDataCenterSelector\WindowsApplication1\obj\Release\R6 Siege Data Center Selector.exe
+E:\nosave\Documents\Programme\R6SiegeDataCenterSelector\WindowsApplication1\obj\Release\R6 Siege Data Center Selector.xml
+E:\nosave\Documents\Programme\R6SiegeDataCenterSelector\WindowsApplication1\obj\Release\R6 Siege Data Center Selector.pdb
